@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo FraseInvertida
     Definir frase Como Cadena
     Definir i Como Entero
     Definir j Como Entero
