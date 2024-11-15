@@ -6,8 +6,8 @@ Algoritmo sumaMatrices
 	
 	//le pedimos al usuario que ingrese los datos de la matriz A
     Escribir "Ingrese los datos de la matriz A"
-    Para i<- 0 Hasta 2 Con Paso 1 Hacer
-        Para j<- 0 Hasta 2 Con Paso 1 Hacer
+    Para i<- 1 Hasta 3 Con Paso 1 Hacer
+        Para j<- 1 Hasta 3 Con Paso 1 Hacer
 			//imprime la posicion de la matriz en la cual estamos
             Escribir "Ingrese los valores de la MATRIZ A para [",i,"][",j,"]"
 			//el usuario ingresa los valores de la matrizA
@@ -16,8 +16,8 @@ Algoritmo sumaMatrices
     FinPara
 	//le pedimos al usuario que ingrese los datos de la matriz B
     Escribir "Ingrese los datos de la matriz B"
-    Para i<- 0 Hasta 2 Con Paso 1 Hacer
-        Para j<- 0 Hasta 2 Con Paso 1 Hacer
+    Para i<- 1 Hasta 3 Con Paso 1 Hacer
+        Para j<- 1 Hasta 3 Con Paso 1 Hacer
 			//imprime la posicion de la matriz en la cual estamos
             Escribir "Ingrese los valores de la MATRIZ B para [",i,"][",j,"]"
 			//el usuario ingresa los valores de la matrizB
@@ -26,8 +26,8 @@ Algoritmo sumaMatrices
     FinPara
 	//sumamos e imprimimos la matriz resultante
     Escribir "El resultado de la suma de matrices es "
-    Para i<- 0 Hasta 2 Con Paso 1 Hacer
-        Para j<- 0 Hasta 2 Con Paso 1 Hacer
+    Para i<- 1 Hasta 3 Con Paso 1 Hacer
+        Para j<- 1 Hasta 3 Con Paso 1 Hacer
 			//sumamos la matriz A y B y alojamos el resultado en la MatrizC
             MatrizC[i,j] <- MatrizA[i,j] + MatrizB[i,j] 
 			//imprimimos el resultado de la MatrizC
