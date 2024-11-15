@@ -1,6 +1,6 @@
 # Programacion-UTN
 Trabajo Final - Integrantes: 
-Isa, Javier
-Maranguello, Lucas 
-Osuna, Gabriel
-Vázquez, Maximiliano
+Isa, Victor Javier
+Maranguello, Lucas Gabriel 
+Osuna, Gabriel Roberto
+Vázquez, Maximiliano Daniel
