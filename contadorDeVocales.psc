@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo ContadordeVocales
 	//definimos las variables
     Definir frase Como Cadena
     Definir i Como Entero
