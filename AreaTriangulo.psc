@@ -1,13 +1,19 @@
 Algoritmo AreaTriangulo
-    // solicitar la base y la altura del triángulo
-    Escribir "Introduce la base del triángulo: "
+    Definir base, altura Como Entero
+	// solicitar la base y la altura del triÃ¡ngulo
+    Escribir "Introduce la base del triÃ¡ngulo: "
     Leer base
-    Escribir "Introduce la altura del triángulo: "
+    Escribir "Introduce la altura del triÃ¡ngulo: "
     Leer altura
 	
-    // calcular el área
+    // calcular el Ã¡rea
     area <- (base * altura) / 2
+	//Abrimos la condicion "SI" para que si el area da como numero negativo nos devuelva "no se puede..."
+	SI area >= 0	
+		// imprimir el resultado
+		Escribir "El Ã¡rea del triÃ¡ngulo es: ", area
+	SiNo
+		Escribir "No se puede realizar el calculo" 
+	FinSi
 	
-    // imprimir el resultado
-    Escribir "El área del triángulo es: ", area
 FinAlgoritmo
