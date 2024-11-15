@@ -1,5 +1,4 @@
-
-Algoritmo sin_titulo
+Algoritmo Promedio
 	//definimos la variables
 	Definir num Como Entero
 	Definir cantidadTotal Como Entero
