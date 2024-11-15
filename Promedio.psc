@@ -22,11 +22,11 @@ Algoritmo Promedio
 		FinSi
 		// si el numero ingresado es negativo hacemos el promedio de los numero ya ingresados
 		Si num <0
-			promedio <- cantidadTotal/i
-            Escribir "El promedio es ",promedio // imprimimos el promedio
+			prom <- cantidadTotal/i
+            Escribir "El promedio es ",prom // imprimimos el promedio
 		finSi
 		
 		
 	Hasta Que (num<0) //este bucle se repite hasta que el numero ingresado sea negativo
-		
+	
 FinAlgoritmo
