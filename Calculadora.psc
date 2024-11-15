@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Calculadora
 	//definimos variables
     Definir num1 Como Entero
     Definir num2 Como Entero
